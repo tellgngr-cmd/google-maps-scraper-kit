@@ -1,0 +1,28 @@
+{
+  "name": "google-maps-scraper-kit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "studio": "remotion studio",
+    "render": "remotion render HelloWorld out/video.mp4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tellgngr-cmd/google-maps-scraper-kit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tellgngr-cmd/google-maps-scraper-kit/issues"
+  },
+  "homepage": "https://github.com/tellgngr-cmd/google-maps-scraper-kit#readme",
+  "dependencies": {
+    "@remotion/cli": "^4.0.537",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "remotion": "^4.0.537"
+  }
+}
